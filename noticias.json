@@ -1,9 +1,8 @@
 [
   {
-    "titulo": "El 'caso Ayuso'La Fiscalía respalda investigar al novio de Ayuso por corrupción en los negocios",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/JY6OWQPBZZDP5GBXXXJTZPYF7Q.jpg?auth=28f79738f25dc9439cc5c58ccc54bf6da1314192cb6d05be7e175cd5ffc12811&width=414&height=233&smart=true",
-    "descripcion": "El ministerio público destaca la “falta de explicación” sobre “lo que parece ser el pago de una comisión encubierta de medio millón de euros”",
-    "enlace": "https://elpais.com/espana/2025-01-15/la-fiscalia-respalda-investigar-al-novio-de-ayuso-por-corrupcion-en-los-negocios.html"
+    "titulo": "Conflicto en Oriente PróximoIsrael y Hamás alcanzan un principio de acuerdo de alto el fuego en Gaza tras 15 meses de guerra",
+    "descripcion": "Trump anuncia el pacto, pero Netanyahu advierte de que quedan “detalles” por cerrar que espera que se resuelvan esta noche. En la primera fase, Hamás entregará 33 rehenes, Israel empezará a retirar tropas de la Franja y liberará presos palestinos",
+    "enlace": "https://elpais.com/internacional/2025-01-15/israel-y-hamas-alcanzan-un-principio-de-acuerdo-de-alto-el-fuego-en-gaza-tras-15-meses-de-guerra.html"
   },
   {
     "titulo": "Incendios en CaliforniaLas imágenes satelitales que muestran la devastación de los incendios de Los Ángeles",
@@ -30,7 +29,7 @@
     "enlace": "https://elpais.com/television/2025-01-15/paula-vazquez-ruth-lorenzo-e-ines-hernand-presentaran-benidorm-fest-2025-estos-artistas-actuaran-en-cada-una-de-las-semifinales.html"
   },
   {
-    "titulo": "Viviendas de alquilerLa Junta de Andalucía cubre en menos de 24 hora la segunda convocatoria del Bono Alquiler Joven",
+    "titulo": "Viviendas de alquilerLa Junta de Andalucía cubre en menos de 24 horas la segunda convocatoria del Bono Alquiler Joven",
     "imagen": "https://imagenes.elpais.com/resizer/v2/TJNCRLVY4BFCNGB2PGTVNMMUEQ.jpg?auth=c66110cf070957d336783741619d0c7792726a4661be705095b9684ec9ee48ef&width=414&height=233&smart=true",
     "descripcion": "",
     "enlace": "https://elpais.com/espana/andalucia/2025-01-15/la-junta-de-andalucia-cubre-en-menos-de-24-hora-la-segunda-convocatoria-del-bono-alquiler-joven.html"
@@ -42,13 +41,133 @@
     "enlace": "https://elpais.com/sociedad/2025-01-15/carcel-por-matar-al-perro-de-su-novia-se-le-acusa-de-delito-contra-animal-domestico.html"
   },
   {
+    "titulo": "INDEPENDENCIAPuigdemont y Junqueras se reúnen este jueves por primera vez desde que recuperaron  el liderazgo del independentismo ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/3UUTVI3B4FBKHIPB77FS63XMZE.jpg?auth=eed393c6fbe6e4156c50f58ca6b383921c8990c68cbb4ddc5da7abb73fea2e80&width=414&height=233&focal=515%2C215",
+    "descripcion": "La cita en Bruselas persigue pulir diferencias y tratar de articular una estrategia común de ERC y Junts",
+    "enlace": "https://elpais.com/espana/catalunya/2025-01-15/puigdemont-y-junqueras-se-reunen-este-jueves-por-primera-vez-desde-que-recuperaron-el-liderazgo-del-independentismo.html"
+  },
+  {
+    "titulo": "Guerra entre Israel y GazaLas celebraciones por el acuerdo de alto el fuego en Gaza, en imágenes",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WVMTDEBGFVGD7D4APYWHLJBXXA.gif?auth=323f8bf044afe16ceb7b41d73422335a4009c5a4c6796729ac91a563e2a9e709&width=414&height=233&smart=true",
+    "descripcion": "Tras 15 meses de guerra, Israel y Hamás han alcanzado un principio de acuerdo de alto el fuego, según han informado fuentes oficiales de dos de los países mediadores, Estados Unidos y Egipto, y de Israel",
+    "enlace": "https://elpais.com/internacional/2025-01-15/las-celebraciones-por-el-acuerdo-de-alto-el-fuego-en-gaza-en-imagenes.html"
+  },
+  {
+    "titulo": "Conflicto en Oriente PróximoIsrael y Hamás alcanzan un principio de acuerdo de alto el fuego en Gaza tras 15 meses de guerra",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/MFJXEDNIE5FLHFIROAT5SPAFUQ.JPG?auth=2dcbf6fab9830c066642a92a636644bf1f11574a33826401a2dfc4aea862ecab&width=414&height=233&focal=2735%2C1485",
+    "descripcion": "Trump anuncia el pacto, pero Netanyahu advierte de que quedan “detalles” por cerrar que espera que se resuelvan esta noche. En la primera fase, Hamás entregará 33 rehenes, Israel empezará a retirar tropas de la Franja y liberará presos palestinos",
+    "enlace": "https://elpais.com/internacional/2025-01-15/israel-y-hamas-alcanzan-un-principio-de-acuerdo-de-alto-el-fuego-en-gaza-tras-15-meses-de-guerra.html"
+  },
+  {
+    "titulo": "Guerra entre Israel y GazaTrump manda donde Biden no mandó",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NP4QWWEU7K6GMRMXIECY2ANTN4.jpg?auth=1804c5f86ce40077289c9cb06d486a645f474c3f50516a3d752c6dbf326fbe62&width=414&height=233&smart=true",
+    "descripcion": "En demasiadas ocasiones, EE UU ha forzado un acuerdo en Oriente Próximo. Siempre a favor de Israel. El principio de acuerdo para un alto el fuego no es lo mismo que la paz",
+    "enlace": "https://elpais.com/internacional/2025-01-15/trump-manda-donde-biden-no-mando.html"
+  },
+  {
+    "titulo": "NEWSLETTER DE LAS ELECCIONES DE ESTADOS UNIDOSUna sentencia y un informe que llegan tarde para frenar a Trump",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/VSE3QBKNENE6VNFHXSMRD5DYCA?auth=12d604062462d2a36579286236698be68a74f7ea642125a0eb98fcacea4d89ec&width=414&height=233&smart=true",
+    "descripcion": "En un universo paralelo en que los casos contra el expresidente se hubieran instruido con más rapidez, el republicano estaría la semana próxima en la cárcel. En lugar de ello, regresará triunfal a la Casa Blanca",
+    "enlace": "https://elpais.com/us/2025-01-15/una-sentencia-y-un-informe-que-llegan-tarde-para-frenar-a-trump.html"
+  },
+  {
+    "titulo": "política exteriorLa aduana comercial de Melilla con Marruecos se reabre una semana después del intento frustrado",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WDOI36HDAA34RZKPMHHMHRH22Y.jpg?auth=f9c153bf7642bf4be3e1c5cd81767d6deb352685062896596834f74e9e9a202a&width=414&height=233&smart=true",
+    "descripcion": "Un camión con electrodomésticos cruza la frontera de Beni Enzar a la espera de que este jueves se inaugure el paso por Ceuta",
+    "enlace": "https://elpais.com/espana/2025-01-15/la-aduana-comercial-de-melilla-con-marruecos-se-reabre-una-semana-despues-del-intento-frustrado.html"
+  },
+  {
+    "titulo": "FORO DE DAVOSUn informe de Davos señala las guerras, el clima y la desinformación como grandes riesgos de 2025",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WJMFXFWAYZEZHI3XNOCLLAFTV4.jpg?auth=8199496eeef31738e1cd0bc7345a1a3c81a9215980fb9b3f735f068a5745bf8a&width=414&height=233&focal=2819%2C1721",
+    "descripcion": "El sondeo sobre las amenazas globales del Foro Económico Mundial refleja una creciente sensación de peligro entre los expertos",
+    "enlace": "https://elpais.com/internacional/2025-01-15/un-informe-de-davos-senala-las-guerras-el-clima-y-la-desinformacion-como-grandes-riesgos-de-2025.html"
+  },
+  {
+    "titulo": "Guerra entre Israel y GazaLa tensa espera de las familias de los rehenes israelíes en Gaza: “Nada es definitivo hasta que crucen la frontera”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/PPIOVIK6ONG6PKN6265VQGKVOE.jpg?auth=027c58a830ed09a99399fabb3efda4225fd063d9078c8bedde619ab2c77e2c4b&width=414&height=233&smart=true",
+    "descripcion": "Israel prepara al ejército y a los servicios secretos para que se coordinen con Cruz Roja y las autoridades egipcias ante la posible liberación de cautivos si prospera el alto el fuego alcanzado con Hamás",
+    "enlace": "https://elpais.com/internacional/2025-01-15/la-tensa-espera-de-las-familias-de-los-rehenes-israelies-en-gaza-nada-es-definitivo-hasta-que-crucen-la-frontera.html"
+  },
+  {
+    "titulo": "VIOLENCIA MACHISTAConfirmada la naturaleza machista del asesinato de una mujer en el incendio de un cajero en Logroño",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/RCQ6LKQ7IVLPW2IP7426P4UMBM.jpg?auth=60e9a8657d37c9cba040ab10e947fc8c389d081d71ae86d2f5a429ecf21867a8&width=414&height=233&focal=2950%2C2000",
+    "descripcion": "La policía detuvo a dos hombres tras el crimen el pasado mes de octubre, en el que murieron dos personas. Uno de los arrestados era la expareja de la asesinada",
+    "enlace": "https://elpais.com/sociedad/2025-01-15/confirmada-la-naturaleza-machista-del-asesinato-de-una-mujer-en-el-incendio-de-un-cajero-en-logrono.html"
+  },
+  {
+    "titulo": "LOS EFECTOS DE LA DANA Mazón llena un pleno que debía dedicarse a la dana de medidas ajenas a la catástrofe",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/YBE2AS4IEFPS4CMED43XXAQOGY.jpg?auth=ce35b1c7f9ebc0108b37e48891bc28a4404fdc831cd3e8b56207a6b28de22cde&width=414&height=233&smart=true",
+    "descripcion": "El consejero de Transporte anuncia la prórroga de la gratuidad de los billetes para jóvenes ",
+    "enlace": "https://elpais.com/espana/comunidad-valenciana/2025-01-15/mazon-llena-un-pleno-que-debia-dedicarse-a-la-dana-de-medidas-ajenas-a-la-catastrofe.html"
+  },
+  {
+    "titulo": "ELECCIÓN JUDICIALSheinbaum mete presión al INE para que establezca las reglas de la elección judicial",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZEQV46UCZFYOFMDSM2GXYC3HQQ.jpg?auth=65a98ad16e996c98b9f77c8e5ebf168cd7aa92a195005024575ac2e78981d2dc&width=414&height=233&focal=1700%2C850",
+    "descripcion": "Los inéditos comicios judiciales tensan nuevamente la relación entre el Gobierno y el organismo  encargado del inédito proceso en el que se elegirán más de 800 cargos de impartición de justicia ",
+    "enlace": "https://elpais.com/mexico/2025-01-15/sheinbaum-mete-presion-al-ine-para-que-establezca-las-reglas-de-la-eleccion-judicial.html"
+  },
+  {
+    "titulo": "Incendios en CaliforniaLo que realmente se necesita: artículos esenciales para donar en los centros de acopio de Los Ángeles",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/V6CFJA7XF3RVEDEPDKNXATJQOA.jpg?auth=488bf037dcf9879bb68b8feb865361fb8b7f40f5a09d81564d64f9a8ffa75a3e&width=414&height=233&focal=2736%2C1597",
+    "descripcion": "Los voluntarios instan a donar artículos nuevos o en buen estado para facilitar su distribución en los centros de acopio",
+    "enlace": "https://elpais.com/us/2025-01-15/lo-que-realmente-se-necesita-articulos-esenciales-para-donar-en-los-centros-de-acopio-de-los-angeles.html"
+  },
+  {
+    "titulo": "Guerra de Rusia en UcraniaTusk carga contra los países de la OTAN que menos gastan en defensa: “No hay tiempo para que sigan sin comprometerse”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IYL2YYASEXIQDOT3UY6SILAVXU.jpg?auth=9fbf576768f9102a54ccd2340c07859569349673439a6c629e2f39a3ce797db8&width=414&height=233&focal=2050%2C386",
+    "descripcion": "El primer ministro polaco asegura que Rusia planeó ataques a aerolíneas de todo el mundo e insta a tomarse en serio el compromiso de inversión militar con la Alianza Atlántica",
+    "enlace": "https://elpais.com/internacional/2025-01-15/tusk-carga-contra-los-paises-de-la-otan-que-menos-gastan-en-defensa-no-hay-tiempo-para-que-sigan-sin-comprometerse.html"
+  },
+  {
+    "titulo": "DIVERSIDAD FUNCIONALMadres de niños con autismo: “Necesitamos prestaciones personalizadas, no sirve el café para todos”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HFFJY3NMH5FIVON3EZK3UAY36Y.jpg?auth=b81f26a5906b5d9abd20e11cce2811f18a14443c4c4feb7f2b5088593dc4a72a&width=414&height=233&smart=true",
+    "descripcion": "El Sindicato de Madres en la Diversidad Funcional denuncia ante la Comisión de Derechos Sociales del Parlament la falta de perspectiva de género en la legislación del tercer sector social",
+    "enlace": "https://elpais.com/espana/catalunya/2025-01-15/madres-de-ninos-con-autismo-necesitamos-prestaciones-personalizadas-no-sirve-el-cafe-para-todos.html"
+  },
+  {
+    "titulo": "En DirectoCopa del Rey en directo | El Getafe se adelanta en el minuto dos de encuentro",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/JLXHS2PR45AXTFI2WTY3PI5ZCY.jpg?auth=a56a4ca348cf66ec6c82d06f472a1e7db8f2ad20037bd292361ceab181ca14e0&width=414&height=233&smart=true",
+    "descripcion": "El Getafe está ganando al Pontevedra y el Almería-Leganés sigue empate a cero. A las 21.00 el Barcelona recibe al Betis y a partir de las 21.30 el Elche se juega el pase a cuartos ante el Atlético de Madrid",
+    "enlace": "https://elpais.com/deportes/futbol/2025-01-15/copa-del-rey-en-directo-los-partidos-de-octavos-en-vivo.html"
+  },
+  {
+    "titulo": "Ataques informáticosBruselas quiere crear un centro de ciberseguridad paneuropeo para proteger a hospitales de ataques ‘online’  ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/CYPPPQPPNPDHT73IGJYQOJB7NA.jpg?auth=a02fb88709d74a45841ae813fefab034f4b3398b87b99eeb8b59e6ef9259d5e0&width=414&height=233&smart=true",
+    "descripcion": "La Comisión Europea presenta un plan de acción para mejorar la prevención y respuesta a los ciberataques en el sector sanitario, una de las infraestructuras críticas más vulnerables a estas agresiones\n",
+    "enlace": "https://elpais.com/sociedad/2025-01-16/bruselas-quiere-crear-un-centro-de-ciberseguridad-paneuropeo-para-proteger-a-hospitales-de-ataques-online.html"
+  },
+  {
+    "titulo": "Ismael 'El Mayo' ZambadaIsmael ‘El Mayo’ Zambada tantea un acuerdo con Estados Unidos para evitar ir a juicio",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZO7FUPSQTFBNLKY7WJRCFO72JQ.JPG?auth=633563de41f002bb68c20725d0e4307e946c9e2340633119af4fb3d75ce174cb&width=414&height=233&focal=1817%2C827",
+    "descripcion": "El capo reaparece en Nueva York y rechaza cambiar a Frank Pérez, la cabeza de su equipo legal, a pesar del conflicto de interés por ser también el representante del Vicentillo, su hijo y colaborador de la justicia estadounidense",
+    "enlace": "https://elpais.com/mexico/2025-01-15/ismael-el-mayo-zambada-tantea-un-acuerdo-con-estados-unidos-para-evitar-ir-a-juicio.html"
+  },
+  {
+    "titulo": "ModaLos fundadores de Proenza Schouler abandonan la dirección creativa de su propia firma ",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NZBKOIE4Q5P7VN444AE2WJEYRI.jpg?auth=bf51e614f3ef09ef531a2e3b7f238980daaf3a0a2e61aa25199fdc35012e59f0&width=414&height=233&focal=831%2C602",
+    "descripcion": "Jack McCollough y Lázaro Hernández dejan sus puestos de forma efectiva a partir del 31",
+    "enlace": "https://elpais.com/smoda/2025-01-15/los-fundadores-de-proenza-schouler-abandonan-la-direccion-creativa-de-su-propia-firma.html"
+  },
+  {
+    "titulo": "VIVIENDALa CNMC analizará el problema del suelo y propondrá mejoras para el acceso a la vivienda",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/5V7YOVRSBFA2RLIE5AW4RLBORU.jpg?auth=d1bc23d684b1fa12628f3f979dec4e300f9e50d0b35b96a0728bc4aee166053f&width=414&height=233&smart=true",
+    "descripcion": "El organismo identificará los elementos que restrinjan de forma innecesaria la eficiencia y competencia del sector y formulará recomendaciones",
+    "enlace": "https://elpais.com/economia/2025-01-15/la-cnmc-analizara-el-problema-del-suelo-y-propondra-mejoras-para-el-acceso-a-la-vivienda.html"
+  },
+  {
+    "titulo": "Ajedrez/Abierto de RoquetasAnálisis de ajedrez | La mejor de Roquetas",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/DVKTJN46PJBPXLWZOB75MXXNIY.jpg?auth=893c96c208668ae5e2798cc501dfac11ff36a6b57555df16c64d76c2d8947bd2&width=414&height=233&focal=639%2C644",
+    "descripcion": "El británico Wadsworth doblega al armenio Grigorián, multiganador de torneos españoles, con una maniobra de gran valor instructivo",
+    "enlace": "https://elpais.com/ajedrez/partidas/2025-01-15/analisis-de-ajedrez-la-mejor-de-roquetas.html"
+  },
+  {
     "titulo": "INEEl INE mantiene la alerta de inseguridad para la elección judicial en el 19% de las secciones electorales del país",
     "imagen": "https://imagenes.elpais.com/resizer/v2/GWUYHW64PFBWZI3OAXB3WUMRMM.jpg?auth=a38c383201cac2fbd8ac3ff36e7843508bbbafafd3cb52d1ebe21de92be77070&width=414&height=233&smart=true",
     "descripcion": "El organismo electoral ha tomado la decisión de mantener la estrategia en las mismas zonas del país que se etiquetaron con algún tipo de problema para la instalación de casillas en las elecciones presidenciales ",
     "enlace": "https://elpais.com/mexico/2025-01-15/el-ine-mantiene-la-alerta-de-inseguridad-para-la-eleccion-judicial-en-el-19-de-las-secciones-electorales-del-pais.html"
   },
   {
-    "titulo": "Viviendas de alquilerLa Junta de Andalucía cubre en menos de 24 hora la segunda convocatoria del Bono Alquiler Joven",
+    "titulo": "Viviendas de alquilerLa Junta de Andalucía cubre en menos de 24 horas la segunda convocatoria del Bono Alquiler Joven",
     "imagen": "https://imagenes.elpais.com/resizer/v2/TJNCRLVY4BFCNGB2PGTVNMMUEQ.jpg?auth=c66110cf070957d336783741619d0c7792726a4661be705095b9684ec9ee48ef&width=414&height=233&smart=true",
     "descripcion": "Los afectados por la gestión de estas ayudas en la primera ronda denuncian que en esta ocasión también ha “habido problemas” para su tramitación",
     "enlace": "https://elpais.com/espana/andalucia/2025-01-15/la-junta-de-andalucia-cubre-en-menos-de-24-hora-la-segunda-convocatoria-del-bono-alquiler-joven.html"
@@ -60,13 +179,13 @@
     "enlace": "https://elpais.com/educacion/2025-01-15/los-rectores-de-las-universidades-publicas-andaluzas-ven-avances-en-la-negociacion-con-la-junta-sobre-la-financiacion.html"
   },
   {
-    "titulo": "PERIODISMOLa RAE y la Asociación de Medios de Información se alían para crear un observatorio de neologismos ",
+    "titulo": "PERIODISMOLa RAE y la Asociación de Medios de Información se alían para afianzar la creación de un observatorio de neologismos ",
     "imagen": "https://imagenes.elpais.com/resizer/v2/RUDPDB2VNBBTZI7OQT5Z4UHKU4.JPG?auth=a3ae769c3109fefe1de07b56395b247f86670b125e28a45db6e436396cde52c5&width=414&height=233&smart=true",
     "descripcion": "El convenio de colaboración se encuadra en el proyecto LEIA de Lengua Española e Inteligencia Artificial, y hará seguimiento de la evolución del lenguaje en los medios",
     "enlace": "https://elpais.com/comunicacion/2025-01-15/la-rae-y-la-asociacion-de-medios-de-informacion-se-alian-para-crear-un-observatorio-de-neologismos.html"
   },
   {
-    "titulo": "Abusos sexualesLa germandat de les polles desbocades",
+    "titulo": "Abusos sexualsLa germandat de les polles desbocades",
     "imagen": "https://imagenes.elpais.com/resizer/v2/E223TFHFIRCXRNMMH7G75YOLPM.png?auth=d30c1b2d3841496e56e6adc47487cc703caaea85bbe38b2e939252467a34940f&width=414&height=233&smart=true",
     "descripcion": "És hora que els homes deixin de ser còmplices callats i actuïn contra els seus congèneres, els seus amics, els seus parents, quan siguin testimonis d’actituds abusives",
     "enlace": "https://elpais.com/quadern/tendencies/2025-01-15/la-germandat-de-les-polles-desbocades.html"
@@ -151,7 +270,7 @@
   },
   {
     "titulo": "VIOLENCIA MACHISTAInterior perfecciona el seguimiento de las víctimas de violencia de género",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/XBZV6EK4VIETWYEU4IJFLNGQS4.jpg?auth=8bcae66f88cf561c130baed2a3e83e44f67521c2d6f5973c687e4d6657683c50&width=414&height=233&focal=1084%2C1452",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/EGGS7SCGYVGTFARAPWAOGETW4I.jpg?auth=ff4b34ab059af039c127d4da58842aa48ad9b2f9f23593f4c39399ccf0a251bc&width=414&height=233&smart=true",
     "descripcion": "El nuevo modelo de respuesta policial elimina el nivel de riesgo “no apreciado” de las víctimas, conecta bases de datos y establece una nueva categoría para que los casos no queden inactivos ",
     "enlace": "https://elpais.com/sociedad/2025-01-15/interior-perfecciona-el-seguimiento-de-las-victimas-de-violencia-de-genero.html"
   },
@@ -164,7 +283,7 @@
   {
     "titulo": "En VivoIncendios en California, en vivo | El número de muertos sube a 25",
     "imagen": "https://imagenes.elpais.com/resizer/v2/NZCOK2BBTS2AQ2BIO3E4FDFHFY.jpg?auth=a038b2ca8906fa9b690023b13d426639d5239b4a85050fac538f809588958145&width=414&height=233&focal=2098%2C2018",
-    "descripcion": "El incendio ‘Eaton’ está controlado al 45% y ‘Palisades’ apenas un 19%, según los últimos balances de las autoridades",
+    "descripcion": "El incendio ‘Eaton’ está controlado al 45% y ‘Palisades’ un 19%, según los últimos balances de las autoridades",
     "enlace": "https://elpais.com/us/2025-01-15/incendios-en-california-en-vivo.html"
   },
   {
@@ -234,9 +353,9 @@
     "enlace": "https://elpais.com/sociedad/2025-01-15/la-ministra-de-sanidad-carga-contra-el-pp-por-boicotear-el-plan-frente-a-virus-invernales-como-el-perro-del-hortelano-ni-cuida-ni-deja-cuidar.html"
   },
   {
-    "titulo": "Zona Bajas EmisionesLos socialistas alegan para adelantar la aplicación de la Zona de Bajas Emisiones de Valencia",
+    "titulo": "Zona Bajas EmisionesLos socialistas alegan contra la “falsa” Zona de Bajas Emisiones en Valencia de PP y Vox",
     "imagen": "https://imagenes.elpais.com/resizer/v2/424JLS42WZHWBKEYBT6FXG7TBY.JPG?auth=62f811d045eef3dec25c76db5a6ab9949e12769c1ac34dae969d27e427ed91f9&width=414&height=233&focal=1910%2C1150",
-    "descripcion": "El grupo quiere más estaciones de medición y que la ordenanza se aplique en toda la ciudad y no solo en el interior de las rondas",
+    "descripcion": "El grupo quiere adelantar el calendario de aplicación, más estaciones de medición y que la ordenanza se aplique en toda la ciudad y no solo en el interior de las rondas",
     "enlace": "https://elpais.com/espana/comunidad-valenciana/2025-01-15/los-socialistas-alegan-para-adelantar-la-aplicacion-de-la-zona-de-bajas-emisiones-de-valencia.html"
   },
   {
@@ -264,7 +383,7 @@
     "enlace": "https://elpais.com/espana/madrid/2025-01-15/el-gobierno-de-ayuso-defiende-a-miguel-angel-rodriguez-tras-una-pregunta-sobre-la-posibilidad-de-destituirle-es-una-falta-de-respeto.html"
   },
   {
-    "titulo": "'CASO KOLDO'El PP llama a la comisión del Senado a Jéssica Rodríguez, la expareja de Ábalos a quien la trama  pagó un piso",
+    "titulo": "'CASO KOLDO'El PP llama a la comisión del Senado a la pareja de Ábalos y a la ex Jéssica Rodríguez, a quien la trama pagó un piso",
     "imagen": "https://imagenes.elpais.com/resizer/v2/GKFZBHO6QUFV5INXDN4PH6KR3I.jpg?auth=e4e9b61b450fe42b0b76e6aedc27dc854e436bb740c8049d03e6ba7e46611669&width=414&height=233&smart=true",
     "descripcion": "Los populares, con mayoría absoluta en la Cámara alta, ultiman la comisión de investigación sobre la dana en la que pedirán explicaciones a Teresa Ribera pero dejan en el aire la asistencia de Carlos Mazón",
     "enlace": "https://elpais.com/espana/2025-01-15/el-pp-llama-a-la-comision-del-senado-a-jessica-la-ex-pareja-de-abalos-a-la-que-la-trama-le-pago-un-piso.html"
@@ -333,7 +452,7 @@
     "titulo": "ayuntamiento de madridComienza el soterramiento de la A-5: autobuses a la mitad y metro a rebosar",
     "imagen": "https://imagenes.elpais.com/resizer/v2/BQE7336RCFGGJHZRLT7DRTWZQ4.jpg?auth=12fe73316bdd1a2c29f32e8d2e5e51f07dc8c2ace3626588ea86f449e81761f8&width=414&height=233&smart=true",
     "descripcion": "Lo más destacado es el desconcierto generalizado de los usuarios del transporte público de los municipios afectados: “Pasarán semanas hasta que nos enteremos de qué va la cosa”",
-    "enlace": "https://elpais.com/espana/madrid/2025-01-15/primer-dia-del-soterramiento-de-la-a-5-autobuses-con-la-mitad-de-usuarios-y-el-metro-a-rebosar-en-cuatro-vientos.html"
+    "enlace": "https://elpais.com/espana/madrid/2025-01-15/primer-dia-del-soterramiento-de-la-a-5-autobuses-con-la-mitad-de-usuarios-y-el-metro-a-rebosar-en-cuatro-vientos.html?autoplay=1"
   },
   {
     "titulo": "PIB ALEMANIAAlemania cierra 2024 en recesión con una caída del 0,2% en el PIB",
@@ -343,7 +462,7 @@
   },
   {
     "titulo": "BCEGuindos afirma que el proceso de desinflación “va por el buen camino”, pero pide prudencia",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/2ZJY3L6PBBFAAGO7DR3VQRYLIM.jpg?auth=4fb62aaf07eb6957bc9d235fadce393c8b6064b871321c26723101681cc89ff4&width=414&height=233&smart=true",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WKTOPWE3SBHIZMAOXGT4DAXN4E.jpg?auth=baeff56ef4e8b6ec3ada9eb924f99ba338b2c9c54a5bae80ee2bfe64a1fcf5bf&width=414&height=233&smart=true",
     "descripcion": "El vicepresidente del BCE alerta sobre la elevada incertidumbre y el débil crecimiento económico",
     "enlace": "https://elpais.com/economia/2025-01-15/guindos-afirma-que-el-proceso-de-desinflacion-va-por-el-buen-camino-pero-pide-prudencia.html"
   },
@@ -370,125 +489,5 @@
     "imagen": "https://imagenes.elpais.com/resizer/v2/PFERMKOTTNFCVOEPUKCHUMVLLI.jpg?auth=b079314a92d584a4b13effcaa135bf980884ccde0522c95d6175e2c5c1e367dc&width=414&height=233&focal=956%2C358",
     "descripcion": "Una sustituta asume la causa por los pagos del Barça al ex ‘número dos’ de los árbitros españoles mientras se cubre la vacante",
     "enlace": "https://elpais.com/espana/catalunya/2025-01-15/el-juez-aguirre-se-jubila-de-baja-y-sin-hacer-los-deberes-no-firmo-el-archivo-de-la-trama-rusa-ni-ha-resuelto-el-caso-negreira.html"
-  },
-  {
-    "titulo": "Premios IrisDavid Broncano arrasa en los Premios Iris y le da las gracias a ‘El hormiguero’",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/S6FYXV6YR2BZ7Z5E4MHEHEI3OI.jpg?auth=185bda40d65cdb355746af30bdf1d45345495d863988784eacd4b657d31e1224&width=414&height=233&smart=true",
-    "descripcion": "La estrella de ‘La revuelta’ ha logrado el premio al mejor presentador de programas de entretenimiento: “Tener un rival duro te hace jugar mejor”",
-    "enlace": "https://elpais.com/television/2025-01-15/david-broncano-arrasa-en-los-premios-iris-y-le-da-las-gracias-a-el-hormiguero.html"
-  },
-  {
-    "titulo": "sucesosMuere un niño de tres años al caerle encima una portería en un pabellón municipal de Subirats (Barcelona)",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/TMLHUDRAMVEV3F2BPHG63K6FJU.jpg?auth=bc0723031ad78c2cb2e4d32c2110c2f29ef571bac618d8986143410224d68bf2&width=414&height=233&smart=true",
-    "descripcion": "La infraestructura móvil, que se habilitaba cuando había partidos, estaba atada con una cadena en una farola",
-    "enlace": "https://elpais.com/espana/catalunya/2025-01-15/fallece-un-nino-de-3-anos-al-caerle-encima-una-porteria-en-un-pabellon-de-subirats.html"
-  },
-  {
-    "titulo": "sumarSumar ve margen para evitar la ruptura con Junts y presiona al PSOE para “ser valiente y esforzarse” en retener a Puigdemont",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/5VPXK6X2LEGGHKAU5I6Q6DX4GA.jpg?auth=bd4bec5bb630b98c86059d49db9b52e626c1415603038d5b9062075a261b8a92&width=414&height=233&smart=true",
-    "descripcion": "Gerardo Pisarello pide a los socialistas que “negocien hasta el final” con Junts e insta a Sánchez a tener “gestos” con el ‘expresident’ y reunirse con él",
-    "enlace": "https://elpais.com/espana/catalunya/2025-01-15/sumar-ve-margen-para-evitar-la-ruptura-con-junts-y-presiona-al-psoe-para-ser-valiente-y-esforzarse-en-retener-a-puigdemont.html"
-  },
-  {
-    "titulo": "accidentes tráficoFallece un motorista en un choque con un jabalí en la C-31 en Sant Pere de Ribes",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/T35RGGHKRBADLOU6R2VBVSONCU.jpg?auth=6888a46c3644abbf9901da866c67b4e649a45a388a09fe666192fc873a766f31&width=414&height=233&smart=true",
-    "descripcion": "El accidente eleva a seis las víctimas mortales en la red viaria interurbana este 2025",
-    "enlace": "https://elpais.com/espana/catalunya/2025-01-15/fallece-un-motorista-en-un-choque-con-un-jabali-en-la-c-31-en-sant-pere-de-ribes.html"
-  },
-  {
-    "titulo": "incendiosDos hermanos mueren en el incendio de su vivienda en Móstoles y los bomberos rescatan al padre de la terraza",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/VYL4OAFDAVACRCPZQ3MV2RNQEM.jpeg?auth=550cabef2cecb7ff0818511a6008fa1970f43646d252909d8ba93aab5915272c&width=414&height=233&smart=true",
-    "descripcion": "El fuego había arrasado una de las habitaciones, en las que estaban los dos fallecidos, de 51 y 53 años. Su padre, de 82, se había refugiado en la terraza y ha resultado intoxicado leve, al igual que otros seis vecinos del inmueble",
-    "enlace": "https://elpais.com/espana/madrid/2025-01-15/dos-muertos-y-siete-intoxicados-leves-en-el-incendio-de-una-vivienda-en-mostoles.html"
-  },
-  {
-    "titulo": "MúsicaLucas, de Andy y Lucas, rompe a llorar en ‘El Hormiguero’ por las críticas a su físico: “Ha sido difícil”",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/PUSHHM5D7BEYFJRD5IIM7FFJLA.jpg?auth=10a3f0ae1f19a1a508fccc8d6ed8f4d0fb07a43a8ef61b149f3ef5b65748c58c&width=414&height=233&smart=true",
-    "descripcion": "El cantante habló en el programa de Antena 3 del eco generado en redes sociales por un retoque en la nariz y las situaciones que enfrentó: “Que alguien se acerque a la mesa en un restaurante y te diga un disparate delante de tus hijos. Eso me rompía el alma”.",
-    "enlace": "https://elpais.com/gente/2025-01-15/lucas-de-andy-y-lucas-rompe-a-llorar-en-el-hormiguero-por-las-criticas-a-su-fisico-ha-sido-dificil.html"
-  },
-  {
-    "titulo": "SUICIDIOUna madre impulsa una propuesta para que el suicidio no excluya o condicione el cobro del seguro de vida",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/55E3JMUYRZAVZDEQYDM4V3ZWIY.jpg?auth=5e2eb4d99082bd657ee6844dfcd8c9c5f26cf21da0671c467ff755bfd2304f80&width=414&height=233&smart=true",
-    "descripcion": "La ley fija una cláusula que marca una carencia aunque en muchos casos se niega el cobro de la indemnización",
-    "enlace": "https://elpais.com/sociedad/2025-01-15/una-madre-impulsa-una-propuesta-para-que-el-suicidio-no-excluya-o-condicione-el-cobro-del-seguro-de-vida.html"
-  },
-  {
-    "titulo": "CINEConsigue entradas para ver en cines ‘The Brutalist’",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/MKVSHMQ34JCL3AR7QK2S6FK4AI.jpg?auth=9f66e4e95867d23a93a004d4c155b882fbdce79258b92ebd8b3908df12e983b1&width=414&height=233&smart=true",
-    "descripcion": "Descubre esta cinta ganadora de 3 Globos de Oro, incluyendo el de Mejor Película",
-    "enlace": "https://elpais.com/suscripciones/elpaismas/2025-01-15/consigue-entradas-para-ver-en-cines-the-brutalist.html"
-  },
-  {
-    "titulo": "MetaMark Zuckerberg defiende la recuperación de la “energía masculina”",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/YDX743GMEEUUHEC2M5FC2LYS2I.jpg?auth=290cb55c5e96ca5091d7b9a30f87f627747c41d24b43ddde4887c216e00f8e91&width=414&height=233&focal=2584%2C1475",
-    "descripcion": "El fundador de Facebook cree que la sociedad y las empresas se beneficiarían si se recuperara un poco más una cultura que celebre la agresión",
-    "enlace": "https://elpais.com/tecnologia/2025-01-15/mark-zuckerberg-defiende-la-recuperacion-de-la-energia-masculina.html"
-  },
-  {
-    "titulo": "JUBILACIÓNForbes elige Valencia como destino ideal para vivir tras la jubilación",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/MHEIPJWMKJD4LDQ36IL5WROJEQ.JPG?auth=f722e419c5c9a85995e24e9611d5fc152f4c4c577b90bc7320ec1515e2b36861&width=414&height=233&focal=1930%2C1410",
-    "descripcion": "La publicación destaca sus soleadas playas, su coste de vida, su red de transporte público y sanitaria y su agenda cultural ",
-    "enlace": "https://elpais.com/espana/comunidad-valenciana/2025-01-15/forbes-elige-valencia-como-destino-ideal-para-vivir-tras-jubilarse.html"
-  },
-  {
-    "titulo": "ViviendaLa revisión máxima del alquiler será del 2,28% en febrero: ¿cómo funciona el nuevo índice y a quién afecta?",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/J3I3YBAWJZH43FBTGNCLL4AAV4.jpg?auth=768bd1a0a6ccd70648c73acb023e87b1877ad998d3c24e780eaa182a0d4065eb&width=414&height=233&smart=true",
-    "descripcion": "El indicador, publicado mensualmente por el INE, solo restringe las subidas de precios a las viviendas habituales",
-    "enlace": "https://elpais.com/economia/2025-01-15/la-revision-maxima-del-alquiler-sera-del-228-en-febrero-como-funciona-el-nuevo-indice-y-a-quien-afecta.html"
-  },
-  {
-    "titulo": "HomofobiaUn hombre denuncia una agresión homófoba por parte de menores en Sevilla: “La gente tiene que saber lo que está pasando, son nuestros hijos”",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/ID3L3M2JXJF5FPTSGGKSJQ2YCE.png?auth=db083958b3f0d55297be17a9969d6d822151895fe76f341dab5c62c90099b5bb&width=414&height=233&smart=true",
-    "descripcion": "La víctima quiere dar visibilidad a unos hechos ante los que siente frustración e impotencia por la edad de los autores y los motivos de odio",
-    "enlace": "https://elpais.com/espana/andalucia/2025-01-15/un-hombre-denuncia-una-agresion-homofoba-por-parte-de-menores-en-sevilla-la-gente-tiene-que-saber-lo-que-esta-pasando-son-nuestros-hijos.html"
-  },
-  {
-    "titulo": "AUDIENCIAS‘Late Xou’ da la sorpresa y lidera en su salto a la noche de La 1 tras ‘La revuelta’, superando a Antena 3 y Telecinco",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/LDGHMN2JCZEKLIVLL4MB5DN3TM.jpg?auth=0399e99793b4550d51c58f98fe30cbd63b0720dbf409094dcd09958fb391b3ef&width=414&height=233&focal=782%2C203",
-    "descripcion": "El programa de Marc Giró, hasta ahora en La 2, obtuvo un 13,4% de cuota de pantalla, frente al 11,9% de ‘Gran Hermano Dúo’ y el 11,2% de la serie turca ‘Renacer’. David Broncano volvió a ganar a ‘El hormiguero’ de Pablo Motos",
-    "enlace": "https://elpais.com/television/2025-01-15/late-xou-da-la-sorpresa-y-lidera-en-la-noche-de-la-1-tras-la-revuelta-superando-a-antena-3-y-telecinco.html"
-  },
-  {
-    "titulo": "SUCESOSUn joven de 20 años, apuñalado y tiroteado en un supuesto ataque de bandas en Usera",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/ZSL4QFGHHEM6FB7BFAGPPMDAEU.jpg?auth=7016aed63097d44c0e89d91c3da3dc18e6e7b1a11345e645984682e9decb6efa&width=414&height=233&smart=true",
-    "descripcion": "La víctima, que permanece ingresada en el hospital 12 de Octubre, iba por la calle cuando lo asaltan varios individuos que llegan en un vehículo y le disparan en el pecho",
-    "enlace": "https://elpais.com/espana/madrid/2025-01-15/un-joven-de-20-anos-apunalado-y-tiroteado-en-un-supuesto-ataque-de-bandas-en-usera.html"
-  },
-  {
-    "titulo": "SALARIOSEl sueldo de tres millones de trabajadores públicos crecerá otro 0,5% con carácter retroactivo desde 2024",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/4M5PXQ2RSBEWFKXKCQXTHXFR6Y.jpg?auth=e970c6bd7f01c2eac56521b0984d3543fa89933921fa042cedc3024d485bd703&width=414&height=233&smart=true",
-    "descripcion": "Los salarios ya subieron un 2% el pasado año, y este nuevo incremento dependía de la inflación media entre 2022 y 2024, confirmada este miércoles con el dato definitivo de diciembre",
-    "enlace": "https://elpais.com/economia/2025-01-15/el-sueldo-de-tres-millones-de-trabajadores-publicos-crecera-otro-05-con-caracter-retroactivo-desde-2024.html"
-  },
-  {
-    "titulo": "PRECIOSEl INE confirma que la inflación cerró 2024 en el 2,8%, ocho décimas menos que el año anterior",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/CJGLVHLJBFFNJLPXJOKSH2FK3E.jpg?auth=6b171d6c52d96919ff7a4fc9d198b6b6c3c8091edb18de71263030143ec15d1d&width=414&height=233&smart=true",
-    "descripcion": "El aumento de los precios de los alimentos se modera al 1,8% a finales del pasado diciembre",
-    "enlace": "https://elpais.com/economia/2025-01-15/el-ine-confirma-que-la-inflacion-cerro-2024-en-el-28-ocho-decimas-menos-que-el-ano-anterior.html"
-  },
-  {
-    "titulo": "el tiempoEl frío se intensifica en 12 comunidades con temperaturas mínimas de hasta 12º bajo cero ",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/GY7GBIJM3JGOPE7W5LMDIL6J3E.jpg?auth=cd96a15fa63ce4479b3a0e0a1a96a151042d64eb7116b939f5cc3aa1db9d5fc5&width=414&height=233&focal=4429%2C1690",
-    "descripcion": "El jueves llegará una nueva dana “sin consecuencias graves” desde el Mediterráneo, que aumentará la inestabilidad en esta zona, con chubascos en Baleares y en la fachada oriental peninsular",
-    "enlace": "https://elpais.com/espana/2025-01-15/doce-comunidades-bajo-aviso-por-frio.html"
-  },
-  {
-    "titulo": "La LunaLanzada con éxito una misión robótica doble que busca la exploración comercial de la Luna ",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/IO5C2SZ6TRE7ZPBTGNOHPUCJ5Q.png?auth=72a6a003c583868c2b4837fa108010ba451be18a334144e77bca4c0f416dd13f&width=414&height=233&smart=true",
-    "descripcion": "Dos módulos privados, uno de EE UU y otro de Japón, ya van camino del satélite terrestre donde recabarán información para preparar futuras misiones",
-    "enlace": "https://elpais.com/ciencia/2025-01-15/lanzada-con-exito-una-mision-robotica-doble-que-busca-la-exploracion-comercial-de-la-luna.html?autoplay=1"
-  },
-  {
-    "titulo": "COMPARATIVASHe probado cinco monitores 4K para el ordenador de casa y esta ha sido mi experiencia",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/AXSJIEZ2EZBQ5GMV7X3ZNPNPII.png?auth=4bdeeb2907b2ce244bbd71b47571112ca41a11503abfa85e2534390b0cb95485&width=414&height=233&smart=true",
-    "descripcion": "Idóneos tanto para trabajar como para disfrutar de contenidos multimedia, esta selección destaca por su diseño, su calidad de fabricación y, por supuesto, imagen",
-    "enlace": "https://elpais.com/escaparate/2025-01-15/mejores-monitores-4k.html"
-  },
-  {
-    "titulo": "Estilo de vidaLa copia de las zapatillas Ugg llega a Amazon a un precio irresistible ",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/IIOTFXYSF5BZVL7AWRGU2YCIBU.png?auth=de220a3a09188c378b73b77aa8fc80ab3522f502a9cbd568a9bc43fcec35600a&width=414&height=233&smart=true",
-    "descripcion": "Estas botas son perfectas para la temporada de otoño-invierno, cuentan con un forro de pelo interior, tienen una plataforma plana y su suela es antideslizante",
-    "enlace": "https://elpais.com/escaparate/estilo-de-vida/2025-01-15/zapatillas-estilo-ugg.html"
   }
 ]
