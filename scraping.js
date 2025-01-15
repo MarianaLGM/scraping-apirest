@@ -26,9 +26,7 @@ const scraping=(req,res)=>{
                 const titulo = $(element).find("header.c_h").text();
                 const descripcion = $(element).find("p.c_d").text();
                 const enlace = $(element).find("a").attr("href");//enlace noticia
-      
-       //console.log(res)
-       
+
                 const noticia = {
                     titulo: titulo,
                     imagen: imagen,
@@ -47,12 +45,6 @@ const scraping=(req,res)=>{
     }
   
 module.exports=(scraping)
-app.listen(3000,() =>{
-    console.log("Express está escuchando en el puerto 3000")
-
-})
-
-module.exports=(scrapingApirest)
 
 
 //SERGIO
