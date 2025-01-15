@@ -7,7 +7,7 @@ const PORT=3000;
 const url ="https://elpais.com/ultimas-noticias/" 
 
 app.get("/scraping", (req,res)=>{
-    res.send("FUNCIONA!!!!")
+    //res.send("FUNCIONA!!!!")
     axios.get(url).then((response)=>{//llamamos a axios
         if(response.status === 200){
             const html=response.data //guardar respuesta
@@ -16,19 +16,20 @@ app.get("/scraping", (req,res)=>{
             // esto lo que hará es cargar todo el html
         
         let noticias = [];
-        let articles = [];
+        let links = [];
 
-        $("article.c.c-d.c--m").each((index, element)=>{//articulo
-        const article=$(element).attr("href")
-        articles.push(article)
+        $("a").each((index, element)=>{//enlace noticia
+        const link=$(element).attr("href")
+        links.push(link)
         })
-        
-        res.send(`
+        console.log(res)
+        res.send(links)
+        /*(`
             <ul>
-              ${articles.map(article=>`<li>${article}</li>`).join("")}
+              ${links.map(link=>`<li>${link}</li>`).join("")}
             </ul>
             `
-            )
+            )*/
         //const titulo=$(element).attr("titulo")
 
        // const descripcion=$(element).attr("descripcion")
