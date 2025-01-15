@@ -16,12 +16,19 @@ app.get("/scraping", (req,res)=>{
             // esto lo que hará es cargar todo el html
         
         let noticias = [];
-        
+        let articles = [];
 
         $("article.c.c-d.c--m").each((index, element)=>{//articulo
-        const articulo=$(element).attr("href")
+        const article=$(element).attr("href")
+        articles.push(article)
         })
-        res.send(articulo)
+        
+        res.send(`
+            <ul>
+              ${articles.map(article=>`<li>${article}</li>`).join("")}
+            </ul>
+            `
+            )
         //const titulo=$(element).attr("titulo")
 
        // const descripcion=$(element).attr("descripcion")
