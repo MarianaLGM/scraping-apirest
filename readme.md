@@ -50,8 +50,10 @@ Esto nos generará un archivo con el array y los objetos dentro.
 Almacenar los datos obtenidos en un archivo JSON.  
 
 - Revisar el HTML para poder identificar donde tenemos que extraerlos. En elmomento que se creó este ejercicio la estructura era esta:
-  - Cada uno de los elementos es así: <article class="c c-d c--m "> 
+  - Cada uno de los elementos es así: <article class="c c-d c--m ">
+                                                      c c-d c--m    
   - Aquí está el título de cada uno de ellos <header class="c_h">
+                                                   
   - La descripción se encuentra aquí: <p class="c_d">
   - Tambien hay que sacar el enlace de la noticia y la imagen.
 
