@@ -19,11 +19,11 @@ const scrapingApirest=()=>{
         
             let noticias = [];
   
-            $("article.c.c-d.c--m").each((index, element)=>{//enlace noticia
+            $("article.c.c-d.c--m").each((index, element)=>{
                 const imagen = $(element).find("img").attr("src");
                 const titulo = $(element).find("header.c_h").text();
                 const descripcion = $(element).find("p.c_d").text();
-                const enlace = $(element).find("a").attr("href");
+                const enlace = $(element).find("a").attr("href");//enlace noticia
       
        //console.log(res)
        
@@ -35,14 +35,13 @@ const scrapingApirest=()=>{
             };
                 noticias.push(noticia);
                 
-        });
-           
-        res.send(noticias)
+        });    
+        //res.send(noticias)
             fs.writeFileSync('noticias.json', JSON.stringify(noticias, null, 2)); //aqui guardamos lo que acabamos de scrapear     
             }
 
     });
-   console.log(noticias)
+
     })
     }
   
