@@ -10,7 +10,7 @@ const url ="https://elpais.com/ultimas-noticias/"
 
 const scrapingApirest=()=>{
     app.get("/scraping", (req,res)=>{
-    res.send("FUNCIONA!!!!")
+    //res.send("FUNCIONA!!!!")
         axios.get(url).then((response)=>{//llamamos a axios
             if(response.status === 200){
             const html=response.data //guardar respuesta
